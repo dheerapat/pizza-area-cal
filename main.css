@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+section {
+    width: 80%;
+    margin: 0 auto;
+}
+
+section h1 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin: 1em;
+}
+
+input {
+    width: 100px;
+}
